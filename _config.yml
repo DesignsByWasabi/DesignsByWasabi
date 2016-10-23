@@ -9,7 +9,7 @@
 title-bold: Designs By
 title-normal: Wasabi
 email: designsbywasabi@gmail.com
-description: 
+description: This is my website, for clients and interested parties can see my work and contact me.
 baseurl: "/DesignsByWasabi" # the subpath of your site, e.g. /blog
 url: "https://designsbywasabi.github.io" # the base hostname & protocol for your site
 author: Christopher Acosta

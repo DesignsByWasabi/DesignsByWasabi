@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, my name is Forty
-description: 
+landing-title: Hi, my name is Chistopher
+description: This is my website, for clients and interested parties can see my work and contact me.
 image: 
-author: 
-nav-menu: 
+author: Christopher Acosta
+nav-menu: Designs By Wasabi
 ---
 
 <!-- Banner -->
